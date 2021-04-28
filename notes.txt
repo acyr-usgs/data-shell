@@ -2,3 +2,9 @@
 - write thesis
 - get post-doc position (pref. with Dr. Horrible)
 - conduct post-doc research
+-acknowledgements:
+Bedford
+Miller
+Schmidt
+Felger
+Phelps
