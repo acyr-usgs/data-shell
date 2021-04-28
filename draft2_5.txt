@@ -8,3 +8,8 @@ Beford
 Miller
 Schmidt
 Felger
+
+References:
+Granger et al., 1996
+Duvall et al., 2004
+Schmidt et al., 1996
